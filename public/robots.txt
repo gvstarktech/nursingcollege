@@ -1,0 +1,55 @@
+# Robots.txt for Mahalakshmi College of Nursing
+# Domain: https://mahalakshmicollegeofnursing.com/
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /admin
+
+# Googlebot & Search Spiders
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# AI Answer Engines & LLM Crawlers (AEO / GEO / Gemini / ChatGPT / Perplexity / Claude)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemaps & AI Knowledge Manifest
+Sitemap: https://mahalakshmicollegeofnursing.com/sitemap.xml
+# LLM Knowledge Manifest: https://mahalakshmicollegeofnursing.com/llms.txt

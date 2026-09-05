@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Homepage - Best Nursing College in Tamil Nadu & Trichy -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://mahalakshmicollegeofnursing.com/mahalakshmi_nursing_logo.png</image:loc>
+      <image:title>Mahalakshmi College of Nursing Logo</image:title>
+      <image:caption>Mahalakshmi College of Nursing - Best Nursing College in Tamil Nadu &amp; Trichy</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Best Nursing Colleges in Tamil Nadu State Guide -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/best-nursing-colleges-in-tamilnadu</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.99</priority>
+    <image:image>
+      <image:loc>https://mahalakshmicollegeofnursing.com/building_photo.png</image:loc>
+      <image:title>Mahalakshmi College of Nursing Campus Building</image:title>
+      <image:caption>Top Ranked Nursing College in Tamil Nadu</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Nursing College Tamil Nadu Search Intent -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/nursing-college-tamil-nadu</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.98</priority>
+  </url>
+
+  <!-- Nursing Admissions 2026-27 -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/admission</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.98</priority>
+  </url>
+
+  <!-- Campus, 9 Simulation Labs & Hostels -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/campus</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.97</priority>
+  </url>
+
+  <!-- B.Sc. Nursing Course Page -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/courses/bsc-nursing</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.96</priority>
+  </url>
+
+  <!-- GNM Nursing Course Page -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/courses/gnm-nursing</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.94</priority>
+  </url>
+
+  <!-- Post Basic B.Sc Nursing Course Page -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/courses/post-basic-bsc-nursing</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.93</priority>
+  </url>
+
+  <!-- Courses Catalog -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/courses</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- About Institution & Hospital Affiliations -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/about</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Fees & Scholarships -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/fees</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Contact & Campus Location -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/contact</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Blog & Insights -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/blog</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Events & Gallery -->
+  <url>
+    <loc>https://mahalakshmicollegeofnursing.com/events</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
